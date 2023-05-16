@@ -2,7 +2,16 @@
 
 UI Screenshots
 
-<img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+    <img src="./assets/readme/1.jpg" alt="1" width="auto" height="200">
+</div>
 
 ![1](./assets/readme/1.jpg)
 ![2](./assets/readme/2.jpg)
