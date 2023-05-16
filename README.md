@@ -2,7 +2,7 @@
 
 UI Screenshots
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
     <img src="./assets/readme/1.jpg" alt="1" width="auto" height="500">
     <img src="./assets/readme/2.jpg" alt="1" width="auto" height="500">
     <img src="./assets/readme/3.jpg" alt="1" width="auto" height="500">
